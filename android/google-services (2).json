@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871890581556",
+    "project_id": "uts-uas1125170150sitirosita",
+    "storage_bucket": "uts-uas1125170150sitirosita.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871890581556:android:628fbc974c3e0a35e7f261",
+        "android_client_info": {
+          "package_name": "com.sitirosita.uts_uas_1125170150"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qK9NZS2so4eVBciYH6CpMcss22g5824"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
